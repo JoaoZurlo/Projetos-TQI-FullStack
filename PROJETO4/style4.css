@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    color: rgb(7, 50, 240);
+    color: rgb(240, 186, 7);
     font-family: 'Alegreya sc';
 }
 
@@ -16,20 +16,20 @@ body {
 .nome {
     margin: 0;
     padding: 0;
-    color: black;
+    color: white;
     text-decoration: underline;
 }
 
 .wrapper {
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(-45deg, rgb(0, 0, 0), rgb(25, 129, 182), rgb(0, 0, 0),rgb(0, 0, 0));
+    background: linear-gradient(-45deg,rgb(0, 0, 0), rgb(0, 171, 250), rgb(0, 0, 0),  rgb(74, 74, 75) );
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    animation: backgroundTransition 8s ease-in-out infinite;
+    animation: backgroundTransition 10s ease-in-out infinite;
 }
 
 .h1 {
