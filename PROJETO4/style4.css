@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    color: rgb(240, 186, 7);
+    color: rgb(7, 50, 240);
     font-family: 'Alegreya sc';
 }
 
@@ -23,7 +23,7 @@ body {
 .wrapper {
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(-45deg,rgb(0, 0, 0), rgb(0, 171, 250), rgb(0, 0, 0),  rgb(74, 74, 75) );
+    background: linear-gradient(-45deg,rgb(0, 0, 0), rgb(50, 196, 69), rgb(0, 0, 0),rgb(6, 79, 236) );
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
